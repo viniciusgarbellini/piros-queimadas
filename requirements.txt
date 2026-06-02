@@ -1,0 +1,8 @@
+# PIROS — Dependências
+# Versões testadas em Python 3.14:
+#   streamlit 1.58.0 · plotly 6.7.0 · pandas 3.0.3 · numpy 2.4.6
+# Para Python 3.10–3.13, o pip resolverá versões compatíveis automaticamente.
+streamlit>=1.40
+plotly>=5.24
+pandas>=2.2
+numpy>=2.1

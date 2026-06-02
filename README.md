@@ -193,7 +193,7 @@ python -m pipelines.fire_pipeline
 
 ## 🎬 Vídeo de apresentação
 
-Disponível em: `<inserir link do YouTube não-listado aqui>`
+Disponível em: https://www.youtube.com/watch?v=PxtyJO-xIPI
 
 ---
 
